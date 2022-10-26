@@ -1,15 +1,15 @@
 <h1 align="center">Hello! I'm Thomas Rice</h1>
 <h3 align="center">A Frontend developer who recently moved into Fullstack!</h3>
 
-- I'm Currently working on a photo gallery site for London based Photographer Alex Phillips [Midnight Beastz](https://github.com/Anubliss-0/Midnight_beastz_photography)
+- I'm Currently working on a photo gallery site with a rails based conent managment system for my photographer friends and family [Photos on Rails](https://github.com/Anubliss-0/Photos-on-Rails)
 
-- 🌱 I’m currently learning **React!**
+- 🌱 Right now I'm developing my skills in Rails and Ruby
 
 - I’m looking for help with **Back-end development, specifically Ruby on rails**
 
 - You can find the stuff I make at [www.anubliss.com](www.anubliss.com)
 
-- 💬 Ask me about **HTML, CSS and best accessibility practices.**
+- 💬 Ask me about **HTML, CSS/SCSS and best accessibility practices.**
 
 - 📫 How to reach me **tom@anubliss.com**
 
