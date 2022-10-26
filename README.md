@@ -1,6 +1,5 @@
 <h1 align="center">Hello! I'm Thomas Rice</h1>
 <h3 align="center">A Frontend developer who recently moved into Fullstack!</h3>
-<h3 align="center">Current Project [Photos on Rails](https://github.com/Anubliss-0/Photos-on-Rails)</h3>
 
 - I'm Currently working on a photo gallery site with a rails based conent managment system for my photographer friends and family [Photos on Rails](https://github.com/Anubliss-0/Photos-on-Rails)
 
