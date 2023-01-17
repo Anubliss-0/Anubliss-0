@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I'm Thomas Rice</h1>
 <h3 align="center">A Frontend developer who recently moved into Fullstack!</h3>
 
+- Currently employed at [Jaamo](https://jaamo.nl/) as a Junior Front-end developer 💻
+
 - I'm Currently working on a photo gallery site with a rails based conent managment system for my photographer friends and family [Photos on Rails](https://github.com/Anubliss-0/Photos-on-Rails)
 
 - 🌱 Right now I'm developing my skills in Rails and Ruby
-
-- I’m looking for help with **Back-end development, specifically Ruby on rails**
 
 - You can find the stuff I make at [www.anubliss.com](www.anubliss.com)
 
