@@ -3,13 +3,11 @@
 
 - Currently employed at [Jaamo](https://jaamo.nl/) as a Junior Fullstack Rails developer 💻
 
-- I'm Currently working on a photo gallery site with a rails based conent managment system for my photographer friends and family [Photos on Rails](https://github.com/Anubliss-0/Photos-on-Rails)
+- I'm Currently working on C# and unity as a side project.
 
 - 🌱 Right now I'm developing my skills in Rails and Ruby
 
-- You can find the stuff I make at [www.anubliss.com](www.anubliss.com)
-
-- 💬 Ask me about **HTML, CSS/SCSS and best accessibility practices.**
+- 💬 Ask me about **Ruby, Rails, JavaScript, C#, HTML, CSS/SCSS and best accessibility practices.**
 
 - 📫 How to reach me **tom@anubliss.com**
 
