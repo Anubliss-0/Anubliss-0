@@ -1,15 +1,13 @@
-<h1 align="center">Hello! I'm Thomas Rice</h1>
-<h3 align="center">A Frontend developer who recently moved into Fullstack!</h3>
+<h1 align="center">Hey! I'm Thomas Rice</h1>
+<h3 align="center">A fullstack Ruby on Rails dev with an interest in Swift programming</h3>
 
 - Currently employed at [Jaamo](https://jaamo.nl/) as a Junior Fullstack Rails developer 💻
 
-- I'm Currently working on C# and unity as a side project.
+- My current side project is KurioCity, a swift app for iOS with a Rails API backend.
 
-- 🌱 Right now I'm developing my skills in Rails and Ruby
+- 💬 Ask me about **Ruby, Rails, JavaScript, HTML, CSS/SCSS and best accessibility practices.**
 
-- 💬 Ask me about **Ruby, Rails, JavaScript, C#, HTML, CSS/SCSS and best accessibility practices.**
-
-- 📫 How to reach me **tom@anubliss.com**
+- 📫 How to reach me **thomasdanielrice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
