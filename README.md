@@ -3,8 +3,6 @@
 
 - Currently employed at [Jaamo](https://jaamo.nl/) as a Junior Fullstack Rails developer 💻
 
-- My current side project is KurioCity, a swift app for iOS with a Rails API backend.
-
 - 💬 Ask me about **Ruby, Rails, JavaScript, HTML, CSS/SCSS and best accessibility practices.**
 
 - 📫 How to reach me **thomasdanielrice@gmail.com**
