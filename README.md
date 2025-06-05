@@ -1,5 +1,5 @@
-<h1 align="center">Oh man, its Thomas Rice!</h1>
-<h3 align="center">A Fullstack developer with over three years of experience who works in React but has experience as a Ruby on Rails dev.</h3>
+<h1 align="center">Oh wow, its Thomas Rice!</h1>
+<h3 align="center">A Fullstack developer with over four years of experience in Ruby on Rails and React.</h3>
 
 <hr/>
 
